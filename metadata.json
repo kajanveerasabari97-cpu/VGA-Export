@@ -1,0 +1,6 @@
+{
+  "name": "VGA Export",
+  "description": "International export of first-quality fresh vegetables, fruits, and leafy greens. Fresh Quality. Global Reach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
